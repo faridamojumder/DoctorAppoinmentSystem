@@ -1,0 +1,370 @@
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\appsettings.Development.json
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\appsettings.json
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\MidEV.exe
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\MidEV.deps.json
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\MidEV.runtimeconfig.json
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\MidEV.runtimeconfig.dev.json
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\MidEV.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\ref\MidEV.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\MidEV.pdb
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\MidEV.Views.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\MidEV.Views.pdb
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\Humanizer.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\MidEV.csproj.AssemblyReference.cache
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\MidEV.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\MidEV.AssemblyInfoInputs.cache
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\MidEV.AssemblyInfo.cs
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\MidEV.csproj.CoreCompileInputs.cache
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\MidEV.MvcApplicationPartsAssemblyInfo.cache
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorAssemblyInfo.cache
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorAssemblyInfo.cs
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\staticwebassets\MidEV.StaticWebAssets.Manifest.cache
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\staticwebassets\MidEV.StaticWebAssets.xml
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\scopedcss\bundle\MidEV.styles.css
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\MidEV.TagHelpers.input.cache
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\MidEV.TagHelpers.output.cache
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorCoreGenerate.cache
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorTargetAssemblyInfo.cache
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorTargetAssemblyInfo.cs
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\MidEV.Views.pdb
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\MidEV.csproj.CopyComplete
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\MidEV.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\ref\MidEV.dll
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\MidEV.pdb
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\MidEV.genruntimeconfig.cache
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Home\SPA.cshtml.g.cs
+D:\IDB CORE\MVC-CORE\Daily Practice\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Home\SPA1.cshtml.g.cs
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\appsettings.json
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\MidEV.exe
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\MidEV.deps.json
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\MidEV.runtimeconfig.json
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\MidEV.runtimeconfig.dev.json
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\MidEV.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\ref\MidEV.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\MidEV.pdb
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\MidEV.Views.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\MidEV.Views.pdb
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Humanizer.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.csproj.AssemblyReference.cache
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.AssemblyInfoInputs.cache
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.AssemblyInfo.cs
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.csproj.CoreCompileInputs.cache
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorAssemblyInfo.cache
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorAssemblyInfo.cs
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\staticwebassets\MidEV.StaticWebAssets.Manifest.cache
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\staticwebassets\MidEV.StaticWebAssets.xml
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\scopedcss\bundle\MidEV.styles.css
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.TagHelpers.input.cache
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.TagHelpers.output.cache
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorCoreGenerate.cache
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Home\SPA.cshtml.g.cs
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Home\SPA1.cshtml.g.cs
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorTargetAssemblyInfo.cache
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorTargetAssemblyInfo.cs
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.Views.pdb
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.csproj.CopyComplete
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\ref\MidEV.dll
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.pdb
+C:\Users\farida\Desktop\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.genruntimeconfig.cache
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\appsettings.Development.json
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\appsettings.json
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\MidEV.exe
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\MidEV.deps.json
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\MidEV.runtimeconfig.json
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\MidEV.runtimeconfig.dev.json
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\MidEV.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\ref\MidEV.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\MidEV.pdb
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\MidEV.Views.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\MidEV.Views.pdb
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Humanizer.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.csproj.AssemblyReference.cache
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.AssemblyInfoInputs.cache
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.AssemblyInfo.cs
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.csproj.CoreCompileInputs.cache
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.MvcApplicationPartsAssemblyInfo.cache
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorAssemblyInfo.cache
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorAssemblyInfo.cs
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\staticwebassets\MidEV.StaticWebAssets.Manifest.cache
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\staticwebassets\MidEV.StaticWebAssets.xml
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\scopedcss\bundle\MidEV.styles.css
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.TagHelpers.input.cache
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.TagHelpers.output.cache
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorCoreGenerate.cache
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Home\SPA.cshtml.g.cs
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Home\SPA1.cshtml.g.cs
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorTargetAssemblyInfo.cache
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorTargetAssemblyInfo.cs
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.Views.pdb
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.csproj.CopyComplete
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\ref\MidEV.dll
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.pdb
+D:\IDB CORE\Final Project Every Exam\core\MidEV (1)\MidEV\MidEV\obj\Debug\net5.0\MidEV.genruntimeconfig.cache
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\appsettings.json
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\MidEV.exe
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\MidEV.deps.json
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\MidEV.runtimeconfig.json
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\MidEV.runtimeconfig.dev.json
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\MidEV.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\ref\MidEV.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\MidEV.pdb
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\MidEV.Views.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\MidEV.Views.pdb
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\Humanizer.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\MidEV.csproj.AssemblyReference.cache
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\MidEV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\MidEV.AssemblyInfoInputs.cache
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\MidEV.AssemblyInfo.cs
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\MidEV.csproj.CoreCompileInputs.cache
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\MidEV.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorAssemblyInfo.cache
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorAssemblyInfo.cs
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\staticwebassets\MidEV.StaticWebAssets.Manifest.cache
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\staticwebassets\MidEV.StaticWebAssets.xml
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\scopedcss\bundle\MidEV.styles.css
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\MidEV.TagHelpers.input.cache
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\MidEV.TagHelpers.output.cache
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorCoreGenerate.cache
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Home\SPA.cshtml.g.cs
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Home\SPA1.cshtml.g.cs
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorTargetAssemblyInfo.cache
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorTargetAssemblyInfo.cs
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\MidEV.Views.pdb
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\MidEV.csproj.CopyComplete
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\MidEV.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\ref\MidEV.dll
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\MidEV.pdb
+C:\Users\farida\Desktop\New folder\MidEV\MidEV\obj\Debug\net5.0\MidEV.genruntimeconfig.cache
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\appsettings.json
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\MidEV.exe
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\MidEV.deps.json
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\MidEV.runtimeconfig.json
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\MidEV.runtimeconfig.dev.json
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\MidEV.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\ref\MidEV.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\MidEV.pdb
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\MidEV.Views.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\MidEV.Views.pdb
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\Humanizer.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\MidEV.csproj.AssemblyReference.cache
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\MidEV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\MidEV.AssemblyInfoInputs.cache
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\MidEV.AssemblyInfo.cs
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\MidEV.csproj.CoreCompileInputs.cache
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\MidEV.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorAssemblyInfo.cache
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorAssemblyInfo.cs
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\staticwebassets\MidEV.StaticWebAssets.Manifest.cache
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\staticwebassets\MidEV.StaticWebAssets.xml
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\scopedcss\bundle\MidEV.styles.css
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\MidEV.TagHelpers.input.cache
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\MidEV.TagHelpers.output.cache
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorCoreGenerate.cache
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Home\SPA.cshtml.g.cs
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Home\SPA1.cshtml.g.cs
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorTargetAssemblyInfo.cache
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\MidEV.RazorTargetAssemblyInfo.cs
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\MidEV.Views.pdb
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\MidEV.csproj.CopyComplete
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\MidEV.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\ref\MidEV.dll
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\MidEV.pdb
+C:\Users\farida\Desktop\New folder\Single page Jquery ajax\MidEV\MidEV\obj\Debug\net5.0\MidEV.genruntimeconfig.cache

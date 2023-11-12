@@ -18,4 +18,3 @@ create table Doctor
 	TotalPatient int NULL,
 	SpecialistID int
 );
-
